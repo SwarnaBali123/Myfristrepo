@@ -1,0 +1,3 @@
+github
+myfristrepo 
+cloud-A
